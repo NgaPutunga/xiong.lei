@@ -1,6 +1,6 @@
 # Xiong Lei, 2/7/2018
 
-Please run this code by Python 3.0 or later version
+## Please run this code by Python 3.0 or later version
 
 I tested it for 2014-2015 dateset 1.3GB, it takes me about 500 sec.
 
@@ -12,4 +12,4 @@ Ideas of codes:
 5. calculation the summatoin, percentiles for each recipient at same zipcode and calendar year.
 6. write output file a the same time
 
-     I am very excited to take part in this challenge. Appreciate it. Thank you for your time and consideration. Hope to have opportunity to further discuss my qualification.    Xiong Lei, 2/7/2018
+     I am very excited to take part in this challenge. Appreciate it. Thank you for your time and consideration. Hope to have the opportunity to further discuss my qualification.    
